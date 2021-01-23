@@ -1,4 +1,5 @@
 import './App.css';
+
 import logo from './img/logo1.png'
 import project1 from "./img/project-1.png"
 import project2 from "./img/project-2.png"
