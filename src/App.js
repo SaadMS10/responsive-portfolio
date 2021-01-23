@@ -111,7 +111,7 @@ function App() {
 <section class="cta">
 	<div class="container">
 		<h1 class="title title-cta">Like what you see?
-			 <span>You can explore for that</span>
+			 <span>You can explore more for that</span>
 		</h1>
 		<a href="https://github.com/SaadMS10/" target="_blank"  rel="noreferrer" class="button button-dark">Visit My Github</a>
 	</div>
