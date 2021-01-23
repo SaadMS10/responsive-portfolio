@@ -97,8 +97,8 @@ function App() {
 			 <figure >
          <img  class="skills-item" src={skill1} alt="html5" />   
          <img class="skills-item"  src={skill2} alt="css" />   
-         <img class="skills-item" src={skill3} alt="bootstrap" />   
-         <img class="skills-item" src={skill4} alt="javascript" />   
+         <img class="skills-item" src={skill3} alt="javascript" />   
+         <img class="skills-item" src={skill4} alt="react js" />   
 
        
        </figure>
