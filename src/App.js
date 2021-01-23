@@ -65,7 +65,7 @@ function App() {
 			<p>STICK-IT NOTES</p>
 			<a href="https://saad-stickitapp.netlify.app/" class="button button-accent button-small">Visit Website</a>
      
-      <a href="https://github.com/SaadMS10/ES6/" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Code</a>
+      <a href="https://github.com/SaadMS10/ES6/" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Repository</a>
 
 		</figcaption>
 	</figure>
@@ -73,20 +73,20 @@ function App() {
 	<figure class="port-item">
 		<img src={project2} alt="Covid 19 Tracker"/>
 		<figcaption class="port-desc">
-			<p>Covid 19 Tracker</p>
+			<p>COVID 19 TRACKER</p>
 			<a href="https://saaad-covid.netlify.app/" class="button button-accent button-small">Visit Website</a>
      
-      <a href=" https://github.com/SaadMS10/saaad-covid-tracker" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Code</a>
+      <a href=" https://github.com/SaadMS10/saaad-covid-tracker" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Repository</a>
     </figcaption>
 	</figure>
 
 	<figure class="port-item">
 		<img src={project3} alt="Quiz App"/>
 		<figcaption class="port-desc">
-			<p>Quiz App</p>
+			<p>QUIZ APP</p>
 			<a href="https://saad-quizapp.netlify.app/" class="button button-accent button-small">Visit Website</a>
       
-    <a href="https://github.com/SaadMS10/saad-quizapp-deployed" target="_blank"  rel="noreferrer"  class="button button-accent button-small">Github Code</a>
+    <a href="https://github.com/SaadMS10/saad-quizapp-deployed" target="_blank"  rel="noreferrer"  class="button button-accent button-small">Github Repository</a>
 		</figcaption>
 	</figure>
   </section>
@@ -111,9 +111,9 @@ function App() {
 <section class="cta">
 	<div class="container">
 		<h1 class="title title-cta">Like what you see?
-			 <span>Want  to see how the code works?</span>
+			 <span>You can explore for that</span>
 		</h1>
-		<a href="https://github.com/SaadMS10/" target="_blank"  rel="noreferrer" class="button button-dark">Visit Github</a>
+		<a href="https://github.com/SaadMS10/" target="_blank"  rel="noreferrer" class="button button-dark">Visit My Github</a>
 	</div>
 </section>
 
