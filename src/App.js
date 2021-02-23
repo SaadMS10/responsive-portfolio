@@ -4,6 +4,11 @@ import logo from './img/logo1.png'
 import project1 from "./img/project-1.png"
 import project2 from "./img/project-2.png"
 import project3 from "./img/project-3.png"
+import project4 from "./img/project-4.png"
+import project5 from "./img/project-5.png"
+import project6 from "./img/project-6.png"
+// import project7 from "./img/project-7.png"
+
 import skill1 from "./img/html5.png"
 import skill2 from "./img/csslogo.png"
 import skill3 from "./img/JSlogo.png"
@@ -60,7 +65,7 @@ function App() {
 	
 	<figure class="port-item">
 		<img src={project1} alt="STICKY APP"/>
-    {/* <img src="./img/project-1.png" alt="STICKY APP"/> */}
+   
 		<figcaption class="port-desc">
 			<p>STICK-IT NOTES</p>
 			<a href="https://saad-stickitapp.netlify.app/" class="button button-accent button-small">Visit Website</a>
@@ -69,6 +74,41 @@ function App() {
 
 		</figcaption>
 	</figure>
+		
+	<figure class="port-item">
+		<img src={project6} alt="SPACEX APP"/>
+   
+		<figcaption class="port-desc">
+			<p>SPACEX APP</p>
+			<a href="http://saad-spacex.surge.sh/" class="button button-accent button-small">Visit Website</a>
+     
+      <a href="https://github.com/SaadMS10/SpaceX-App" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Repository</a>
+
+		</figcaption>
+	</figure>
+	<figure class="port-item">
+		<img src={project4} alt="Expense Tracker"/>
+   
+		<figcaption class="port-desc">
+			<p>Expense Tracker App</p>
+			<a href="http://saaad-expense-tracker.surge.sh/" class="button button-accent button-small">Visit Website</a>
+     
+      <a href="https://github.com/SaadMS10/saaad-expense-tracker" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Repository</a>
+
+		</figcaption>
+	</figure>
+	<figure class="port-item">
+		<img src={project5} alt="My Read App"/>
+   
+		<figcaption class="port-desc">
+			<p>MyRead App</p>
+			<a href="http://saad-myreadapp.surge.sh/" class="button button-accent button-small">Visit Website</a>
+     
+      <a href="https://github.com/SaadMS10/myreadapp" target="_blank"  rel="noreferrer" class="button button-accent button-small">Github Repository</a>
+
+		</figcaption>
+	</figure>
+
 
 	<figure class="port-item">
 		<img src={project2} alt="Covid 19 Tracker"/>
