@@ -49,8 +49,7 @@ function App() {
 			<h1 >WHO I AM </h1>
 			<p>Hi My name is Muhammad Saad.<br/>
 				A passionate front end website developer who always strive for more knowledge and to learn new skills </p>
-			<p>I have done <strong>Bachelors In Software Engineering</strong> from Sirsyed Universirty of Eng. And Technology.Curently working as a  <strong>Web Developer</strong>
-			At Gottlich Concepts</p>
+			<p>I have done <strong>Bachelors In Software Engineering</strong> from Sirsyed Universirty of Eng. And Technology</p>
 		</div>
 	</section>
 </div>
